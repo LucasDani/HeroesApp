@@ -13,3 +13,7 @@ Ejecuta la app en modo de desarrollo.
 Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
 La página se recarga automáticamente ante cualquier cambio.
+
+# Deploy (Netlify)
+
+https://nifty-swirles-6deea9.netlify.app/

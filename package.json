@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://lucasdani.github.io/HeroesApp",
   "eslintConfig": {
     "extends": [
       "react-app",
